@@ -67,3 +67,15 @@ Press ENTER or type command to continue
 ```
 
 why bubble is so slow? what's the name of *normal* sort?
+
+-----
+
+50w numbers results:
+```
+running [py.py] ...
+
+qsort: 8.559959411621094 secs
+select: 62942.58137488365 secs
+
+Press ENTER or type command to continue
+```
